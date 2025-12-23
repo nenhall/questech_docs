@@ -12,10 +12,12 @@
 
 | 组件 | 技术栈 | 功能亮点 |
 |------|--------|----------|
-| **桌面应用** | Electron + Vite + Lit | 跨平台桌面客户端，支持沙箱化代理执行 |
-| **后端 API** | FastAPI + SQLAlchemy + MySQL | 高并发聊天服务，多模型 AI 集成 |
-| **移动应用** | Flutter + Dart + 原生适配 | 多平台支持，手机 / 平板 / 电脑 |
+| **桌面端** | Electron + Vite + Lit | 跨平台桌面客户端，支持沙箱化代理执行 |
+| **后端API** | FastAPI + SQLAlchemy + MySQL | 高并发聊天服务，多模型 AI 集成 |
+| **移动端** | Flutter + Dart + 原生适配 + SwiftUI | 多平台支持，手机 / 平板 / 电脑 |
 | **大模型** | 开源模型 + LLaMA-Factory、LangChain +PyTorch Transformers | 聚合业界优质大模型，结构专业知识自训练 |
+
+macOS 跟 iOS 第一版使用的是 SwiftUI
 
 ### App 下载：https://www.baizesz.com/app/download
 
